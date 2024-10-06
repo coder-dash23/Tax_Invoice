@@ -79,7 +79,7 @@ export default function UploadSection() {
                   type="text"
                   value={SubHeading}
                   onChange={(e) => setSubHeading(e.target.value)}
-                  className={`${inputClass} text-4xl text-center`}
+                  className={`${inputClass} text-5xl text-center`}
                 />
       </div>
       <div className="space-y-0 ">
